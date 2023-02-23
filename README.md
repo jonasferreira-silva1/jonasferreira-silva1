@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**jonasferreira-silva1/jonasferreira-silva1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Olá eu sou Jonas Silva 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +9,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+   <a herf="https://github.com/jonasferreira-silva1">
+   <img height="180em" src="https:github-readme-stats.vercel.app/api?username=jonasferreira&show_icons=true&theme=dracula&includ_all_commits=true&count_private=true"/>
+   <img height="180em" src="https:github-readme-stats.vercel.app/api/top-langs/?username=jonasferreira&layout=compact&langs_count=16&theme=dracula"/>
+   </div>
+
