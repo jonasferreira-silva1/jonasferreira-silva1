@@ -1,4 +1,6 @@
 ### Olá, eu sou Jonas Silva 👋
+🎓 Estudante de **Sistemas de Informação** na [UNINASSAU](https://uninassau.edu.br) 
+💼 Apaixonado por desenvolvimento de software, tecnologia e soluções que geram impacto real.  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-silva-699538230)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jonasferreira-silva1) <!-- Link corrigido -->
@@ -6,7 +8,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonasferreira-silva1&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true) <!-- Username corrigido -->
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasferreira-silva1&layout=compact&theme=dracula) <!-- Username corrigido -->
 
-### Principais Tecnologias
+### 🚀 Tecnologias que uso com frequência
 
 <div align="center" style="margin: 20px 0">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
@@ -45,3 +47,20 @@ const currentFocus: TechnicalExpertise = {
   databases: ['PostgreSQL', 'MongoDB'],
   monitoring: 'Grafana'
 };
+
+## 🛠️ Projetos em destaque
+
+| Projeto | Tecnologias | Descrição |
+|--------|-------------|-----------|
+| [Sistema de Cadastro de Estudantes](https://github.com/jonasferreira-silva1/SistemaCadastroEstudante) | HTML, CSS, JavaScript | Aplicação web simples para gerenciar dados de alunos. |
+| [Tela de Login](https://github.com/jonasferreira-silva1/Tela-de-login) | HTML, CSS | Projeto básico de autenticação visual. |
+| [Lista de Tarefas JS](https://github.com/jonasferreira-silva1/Lista-de-tarefa-JavaScript) | JavaScript | Aplicativo de tarefas com interatividade no front-end. |
+
+➡️ Veja todos os repositórios em [meu GitHub](https://github.com/jonasferreira-silva1?tab=repositories)
+
+## 🤝 Vamos conversar?
+
+- 📧 Email: jonas.fsilva1@hotmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/jonas-silva01/
+
+💡 *"A prática leva à perfeição. Cada linha de código é um passo rumo à excelência."*
