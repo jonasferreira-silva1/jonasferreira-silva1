@@ -48,7 +48,7 @@ const currentFocus: TechnicalExpertise = {
   monitoring: 'Grafana'
 };
 
-### 🤝 Vamos conversar?
+🤝 Vamos conversar?
 
 - 📧 Email: [jonas.fsilva1@hotmail.com](mailto:jonas.fsilva1@hotmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/jonas-silva01](https://www.linkedin.com/in/jonas-silva01)
