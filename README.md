@@ -56,11 +56,12 @@ const currentFocus: TechnicalExpertise = {
 | [Tela de Login](https://github.com/jonasferreira-silva1/Tela-de-login) | HTML, CSS | Projeto básico de autenticação visual. |
 | [Lista de Tarefas JS](https://github.com/jonasferreira-silva1/Lista-de-tarefa-JavaScript) | JavaScript | Aplicativo de tarefas com interatividade no front-end. |
 
-➡️ Veja todos os repositórios em [meu GitHub](https://github.com/jonasferreira-silva1?tab=repositories)
+🔎 Explore mais projetos no [meu perfil completo no GitHub](https://github.com/jonasferreira-silva1?tab=repositories)
 
 ## 🤝 Vamos conversar?
 
-- 📧 Email: jonas.fsilva1@hotmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/jonas-silva01/
+- 📧 **Email**: [jonas.fsilva1@hotmail.com](mailto:jonas.fsilva1@hotmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/jonas-silva01](https://www.linkedin.com/in/jonas-silva01)
+
 
 💡 *"A prática leva à perfeição. Cada linha de código é um passo rumo à excelência."*
