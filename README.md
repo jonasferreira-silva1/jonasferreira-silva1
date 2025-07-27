@@ -51,12 +51,4 @@ const currentFocus: TechnicalExpertise = {
   monitoring: 'Grafana'
 };
 
-🤝 Vamos conversar?
-
-- 📧 Email:[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jonas.fsilva1@hotmail.com)
-
-- 💼 LinkedIn:[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-silva-699538230)
-
-
-
 💡 "A prática leva à perfeição. Cada linha de código é um passo rumo à excelência."
