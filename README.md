@@ -7,6 +7,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonasferreira-silva1&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true) <!-- Username corrigido -->
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasferreira-silva1&layout=compact&theme=dracula) <!-- Username corrigido -->
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jonas.fsilva1@hotmail.com)
+
 
 ### 🚀 Tecnologias que uso com frequência
 
