@@ -1,7 +1,7 @@
 ### Olá, eu sou Jonas Silva 👋
 🎓 Estudante de **Sistemas de Informação** na UNINASSAU.
 💼 Apaixonado por desenvolvimento de software, tecnologia e soluções que geram impacto real.  
-🚀 Atualmente focado em projetos fullstack.
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-silva-699538230)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jonasferreira-silva1) <!-- Link corrigido -->
