@@ -3,9 +3,6 @@
 💼 Apaixonado pelo desenvolvimento de software, tecnologia e soluções que geram impacto real  
 🚀 Sempre em busca de desafios que envolvam inovação, aprendizado contínuo e entrega de valor
 
-
-
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-silva-699538230)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jonasferreira-silva1) <!-- Link corrigido -->
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jonas.fsilva1@hotmail.com)
