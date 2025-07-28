@@ -1,6 +1,6 @@
 ### Olá, eu sou Jonas Silva 👋
-🎓 Estudante de **Sistemas de Informação** na UNINASSAU.
-💼 Apaixonado por desenvolvimento de software, tecnologia e soluções que geram impacto real.  
+🎓 Estudante de **Sistemas de Informação** na UNINASSAU
+💼 Apaixonado por desenvolvimento de software, tecnologia e soluções que geram impacto real 
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-silva-699538230)
