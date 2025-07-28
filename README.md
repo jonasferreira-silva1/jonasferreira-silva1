@@ -1,6 +1,8 @@
 ### Olá, eu sou Jonas Silva 👋
 🎓 Estudante de **Sistemas de Informação** na UNINASSAU  
-💼 Apaixonado pelo desenvolvimento de software, tecnologia e soluções que geram impacto real
+💼 Apaixonado pelo desenvolvimento de software, tecnologia e soluções que geram impacto real  
+🚀 Sempre em busca de desafios que envolvam inovação, aprendizado contínuo e entrega de valor
+
 
 
 
