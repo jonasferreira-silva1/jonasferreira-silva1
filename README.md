@@ -1,18 +1,21 @@
 ### Olá, eu sou Jonas Silva 👋
 🎓 Estudante de **Sistemas de Informação** na UNINASSAU  
-💼 Apaixonado pelo desenvolvimento de software, tecnologia e soluções que geram impacto real  
-🚀 Sempre em busca de desafios que envolvam inovação, aprendizado contínuo e entrega de valor
+💼 Apaixonado por desenvolvimento de software, tecnologia e soluções que geram impacto real  
+🚀 Sempre em busca de desafios que envolvam inovação, aprendizado contínuo e entrega de valor  
 
 ⚡ “Tecnologia é sobre pessoas. Quanto mais aprendemos, mais conseguimos transformar vidas.”
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-silva-699538230)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jonasferreira-silva1) <!-- Link corrigido -->
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jonasferreira-silva1)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jonas.fsilva1@hotmail.com)
 
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonasferreira-silva1&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true) <!-- Username corrigido -->
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasferreira-silva1&layout=compact&theme=dracula) <!-- Username corrigido -->
+### 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonasferreira-silva1&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasferreira-silva1&layout=compact&theme=tokyonight)
 
+---
 
 ### 🚀 Tecnologias que uso com frequência
 
@@ -35,7 +38,22 @@
 
 ---
 
-### Atuação Técnica
+### 📌 Projetos em Destaque
+- [🐾 Sistema de Gerenciamento de Animais](https://github.com/jonasferreira-silva1/Clinica-api) – CRUD completo com **Spring Boot + PostgreSQL + Docker**  
+- [📚 Projeto Acadêmico](https://github.com/jonasferreira-silva1/academic_project) – Sistema de gestão de alunos com **autenticação e segurança**  
+- [🌐 Site Responsivo](https://github.com/jonasferreira-silva1/Projeto-Web-Html-Css-Js) – Frontend em **HTML, CSS e JavaScript**  
+- [🔑 Tela de Login](https://github.com/jonasferreira-silva1/Tela-de-login) – Implementação de tela de autenticação  
+
+---
+
+### 📖 Atualmente aprendendo
+- Arquitetura de Microsserviços  
+- Integração com APIs RESTful  
+- Testes Automatizados (**JUnit / Jest**)  
+
+---
+
+### ⚙️ Atuação Técnica
 
 ```ts
 interface TechnicalExpertise {
@@ -55,5 +73,8 @@ const currentFocus: TechnicalExpertise = {
 };
 
 💡 "A prática leva à perfeição. Cada linha de código é um passo rumo à excelência."
-💡 Aberto a colaborações e novos desafios!  
+
+🤝 Vamos nos conectar?
+
+💡 Aberto a colaborações e novos desafios!
 Se quiser trocar ideias ou construir algo incrível juntos, entre em contato. 🚀
