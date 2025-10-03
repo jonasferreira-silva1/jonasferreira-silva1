@@ -40,7 +40,7 @@
 
 ### 📌 Projetos em Destaque
 - [🐾 Sistema de Gerenciamento de Animais](https://github.com/jonasferreira-silva1/Clinica-api) – CRUD completo com **Spring Boot + PostgreSQL + Docker**  
-- [📚 Projeto Acadêmico](https://github.com/jonasferreira-silva1/academic_project) – Sistema de gestão de alunos com **autenticação e segurança**  
+- [📚 Projeto Acadêmico]([https://github.com/jonasferreira-silva1/academic_project](https://github.com/jonasferreira-silva1/SimplyInvite)) – SimplyInvite Sistema de gestão de alunos com **autenticação e segurança**  
 - [🌐 Site Responsivo](https://github.com/jonasferreira-silva1/Projeto-Web-Html-Css-Js) – Frontend em **HTML, CSS e JavaScript**  
 - [🔑 Tela de Login](https://github.com/jonasferreira-silva1/Tela-de-login) – Implementação de tela de autenticação  
 
