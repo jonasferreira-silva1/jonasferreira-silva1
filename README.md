@@ -11,9 +11,19 @@
 
 ---
 
-### 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonasferreira-silva1&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasferreira-silva1&layout=compact&theme=tokyonight)
+## 📊 Estatísticas
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jonasferreira-silva1&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasferreira-silva1&layout=compact&theme=tokyonight"
+    height="165"
+  />
+</div>
+
 
 ---
 
