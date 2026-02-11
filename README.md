@@ -1,7 +1,11 @@
 ### Olá, eu sou Jonas Silva 👋
-🎓Bacharel em **Sistemas de Informação** pela UNINASSAU, com foco em desenvolvimento de software e projetos práticos.  
-💼 Apaixonado por desenvolvimento de software, tecnologia e soluções que geram impacto real  
-🚀 Sempre em busca de desafios que envolvam inovação, aprendizado contínuo e entrega de valor  
+🎓 Bacharel em Sistemas de Informação (UNINASSAU) 
+
+💻 Desenvolvedor Full Stack com sólida proficiência em ecossistemas JavaScript (React/Angular) e Back-end (Java/Python).
+
+☁️ Experiência em arquitetura de dados com MySQL e PostgreSQL, além de deploy e orquestração utilizando Docker e AWS.
+
+🚀 Focado em desenvolver sistemas escaláveis, performáticos e centrados na experiência do usuário.
 
 ⚡ “Tecnologia é sobre pessoas. Quanto mais aprendemos, mais conseguimos transformar vidas.”
 
