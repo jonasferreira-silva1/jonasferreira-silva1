@@ -45,9 +45,11 @@
 ---
 
 ### 📖 Atualmente aprendendo
-- Arquitetura de Microsserviços  
-- Integração com APIs RESTful  
-- Testes Automatizados (**JUnit / Jest**)  
+🏗️ Arquitetura: Design e implementação de Microsserviços escaláveis.
+
+🔌 Integração: Consumo e desenvolvimento de APIs RESTful seguindo boas práticas.
+
+🧪 Qualidade de Software: Garantia de estabilidade via Testes Automatizados (Unitários e Integração) com JUnit e Jest. 
 
 ---
 
