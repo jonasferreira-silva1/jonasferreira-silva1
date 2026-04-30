@@ -41,10 +41,10 @@
 ---
 
 ### 📌 Projetos em Destaque
-- [🐾 Sistema de Gerenciamento de Animais](https://github.com/jonasferreira-silva1/Clinica-api) – CRUD completo com **Spring Boot + PostgreSQL + Docker**  
-- [📚 Projeto Acadêmico – SimplyInvite](https://github.com/jonasferreira-silva1/SimplyInvite) – Sistema de gestão de alunos com **autenticação e segurança**
-- [🔑 Tela de Login](https://github.com/jonasferreira-silva1/TELA-DE-LOGIN-COM-REACT-JS) – Implementação de login feita em React JS
-- [🐍 Projeto CRUD em Python](https://github.com/jonasferreira-silva1/python_crud) – Exemplo de operações CRUD completas com Python
+- [🤖 BioFace AI](https://github.com/jonasferreira-silva1/bioface-ai) – Sistema de reconhecimento facial offline com análise comportamental, utilizando MediaPipe + ONNX + FastAPI + Docker, com testes automatizados, métricas reais e abordagem comparativa com soluções cloud (AWS/Azure)  
+- [📈 Jobs Insights Dashboard](https://github.com/jonasferreira-silva1/jobs-insights-dashboard) – Plataforma de análise de mercado de trabalho com dados reais do CAGED (4,5M+ registros/mês), incluindo dashboard interativo, mapa coroplético do Brasil e deploy em produção (Vercel)  
+- [🛡️ Caçador de Ameaças IA](https://github.com/jonasferreira-silva1/cacador-de-ameacas-ia) – Sistema de detecção de ameaças com Machine Learning baseado no framework MITRE ATT&CK, focado em segurança cibernética e análise de eventos (SIEM) *(em desenvolvimento)*  
+- [🛒 Fullstack Product Management System](https://github.com/jonasferreira-silva1/fullstack-product-management-system) – Sistema fullstack para gerenciamento de produtos com arquitetura cliente-servidor, CRUD completo e integração entre front-end e back-end
 
 ---
 
