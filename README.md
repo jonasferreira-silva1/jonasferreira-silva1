@@ -48,12 +48,13 @@
 
 ---
 
-### 📖 Atualmente aprendendo
-🏗️ Arquitetura: Design e implementação de Microsserviços escaláveis.
+### 📖 Atualmente focado em evolução contínua nas seguintes áreas:
 
-🔌 Integração: Consumo e desenvolvimento de APIs RESTful seguindo boas práticas.
+🏗️ Arquitetura de Software: Design e implementação de sistemas distribuídos e microsserviços escaláveis, resilientes e orientados a domínio.
 
-🧪 Qualidade de Software: Garantia de estabilidade via Testes Automatizados (Unitários e Integração) com JUnit e Jest. 
+🔌 Integração de Sistemas: Desenvolvimento e consumo de APIs RESTful com foco em boas práticas, versionamento, segurança e performance.
+
+🧪 Qualidade de Software: Garantia de confiabilidade através de testes automatizados (unitários e de integração) utilizando JUnit e Jest, além de boas práticas de cobertura e CI/CD.
 
 ---
 
@@ -61,24 +62,25 @@
 
 ```ts
 interface TechnicalExpertise {
-  architecture: 'Sistemas Distribuídos' | 'Microserviços';
+  architecture: 'Sistemas Distribuídos' | 'Microserviços Escaláveis';
   development: 'Full-Stack' | 'Cloud-Native Applications';
-  infra: ['AWS EC2/S3', 'Docker Containers', 'CI/CD Pipelines'];
-  databases: ['PostgreSQL', 'MySQL', 'MongoDB'];
-  monitoring: 'Grafana' | 'CloudWatch';
+  infrastructure: ('AWS (EC2, S3)' | 'Docker Containers' | 'CI/CD Pipelines')[];
+  databases: ('PostgreSQL' | 'MySQL' | 'MongoDB')[];
+  observability: 'Grafana' | 'CloudWatch';
 }
 
 const currentFocus: TechnicalExpertise = {
-  architecture: 'Microserviços',
+  architecture: 'Microserviços Escaláveis',
   development: 'Cloud-Native Applications',
-  infra: ['AWS EC2/S3', 'Docker Containers', 'CI/CD Pipelines'],
+  infrastructure: ['AWS (EC2, S3)', 'Docker Containers', 'CI/CD Pipelines'],
   databases: ['PostgreSQL', 'MongoDB'],
-  monitoring: 'Grafana'
+  observability: 'Grafana'
 };
 
-💡 "A prática leva à perfeição. Cada linha de código é um passo rumo à excelência."
+💡 "Excelência não é um ato isolado, mas o resultado de evolução contínua. Cada linha de código é uma oportunidade de construir algo melhor."
 
 🤝 Vamos nos conectar?
 
-💡 Aberto a colaborações e novos desafios!
-Se quiser trocar ideias ou construir algo incrível juntos, entre em contato. 🚀
+🚀 Estou aberto a colaborações, desafios técnicos e oportunidades para construir soluções escaláveis e de impacto.
+
+Se você busca alguém comprometido com qualidade, performance e boas práticas de engenharia, será um prazer trocar ideias.
